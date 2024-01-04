@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookshelf.API", "Bookshelf.API\Bookshelf.API.csproj", "{A69E0804-D65E-4877-B37B-D256CEC24C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookshelf.Infra", "Bookshelf.Infra\Bookshelf.Infra.csproj", "{A7ADE182-4F7C-440E-A2E1-50B43C87DEB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookshelf.Domain", "Bookshelf.Domain\Bookshelf.Domain.csproj", "{500550C1-B79F-4CBA-9A0A-C069CCE13ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69E0804-D65E-4877-B37B-D256CEC24C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69E0804-D65E-4877-B37B-D256CEC24C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69E0804-D65E-4877-B37B-D256CEC24C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69E0804-D65E-4877-B37B-D256CEC24C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7ADE182-4F7C-440E-A2E1-50B43C87DEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7ADE182-4F7C-440E-A2E1-50B43C87DEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7ADE182-4F7C-440E-A2E1-50B43C87DEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7ADE182-4F7C-440E-A2E1-50B43C87DEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500550C1-B79F-4CBA-9A0A-C069CCE13ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500550C1-B79F-4CBA-9A0A-C069CCE13ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500550C1-B79F-4CBA-9A0A-C069CCE13ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500550C1-B79F-4CBA-9A0A-C069CCE13ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
